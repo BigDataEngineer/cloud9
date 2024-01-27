@@ -27,7 +27,7 @@ spec:
             valueFrom:
               secretKeyRef:
                 name: mongo-secret
-                key: mongo-password                
+                key: mongo-user                
         ports:
         - containerPort: 27017
         
