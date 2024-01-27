@@ -86,3 +86,49 @@ After doing this, you may fix the identity used for this commit with:
  1 file changed, 16 insertions(+)
 branch 'master' set up to track 'origin/master'.
 0
+[master 8e506a6] 1706378402
+ Committer: goelt2000@gmail.com <ec2-user@ip-172-31-61-73.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 31 files changed, 16 insertions(+), 84 deletions(-)
+ delete mode 100644 .c9/.nakignore
+ delete mode 100644 .c9/amazonwebservices.aws-toolkit-vscode/devfile.schema.json
+ delete mode 100644 .c9/amazonwebservices.aws-toolkit-vscode/sam.schema.json
+ delete mode 100644 .c9/launch.json
+ delete mode 100644 .c9/metadata/environment/.c9/project.settings
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/ed.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/mongo-config.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/mongo-secret.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/mongo.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/pv.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/splunk-config.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/splunk-forwarder.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/test-pod.yaml
+ delete mode 100644 .c9/metadata/environment/K8S-DEMO/webapp.yaml
+ delete mode 100644 .c9/metadata/environment/backupCron.sh
+ delete mode 100644 .c9/metadata/environment/py4e/fhandle.py
+ delete mode 100644 .c9/metadata/environment/py4e/file.txt
+ delete mode 100644 .c9/metadata/environment/py4e/findvalue.py
+ delete mode 100644 .c9/metadata/environment/py4e/function_chop.py
+ delete mode 100644 .c9/metadata/environment/py4e/parse_file.py
+ delete mode 100644 .c9/metadata/environment/py4e/reversetraversalstring.py
+ delete mode 100644 .c9/metadata/environment/py4e/socketprogram.py
+ delete mode 100644 .c9/metadata/environment/py4e/traversalstring.py
+ delete mode 100644 .c9/metadata/environment/~/.c9/user.settings
+ delete mode 100644 .c9/metadata/tab1
+ delete mode 100644 .c9/metadata/tab2
+ delete mode 100644 .c9/out_of_memory
+ delete mode 100644 .c9/project.settings
+ delete mode 100644 .c9/py4e/meta.json
+ delete mode 100644 .c9/tasks.json
+branch 'master' set up to track 'origin/master'.
+0
