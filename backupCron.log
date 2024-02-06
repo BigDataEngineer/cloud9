@@ -994,3 +994,26 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 SplunkArchitectLab/DS/deployment-apps/UF2/local/outputs.conf
 branch 'master' set up to track 'origin/master'.
 0
+[master b8ea18c] 1707208202
+ Committer: goelt2000@gmail.com <ec2-user@ip-172-31-61-73.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 37 insertions(+), 8 deletions(-)
+ mode change 100644 => 100755 SplunkArchitectLab/DS/deployment-apps/UF1/local/inputs.conf
+ mode change 100644 => 100755 SplunkArchitectLab/DS/deployment-apps/UF1/local/outputs.conf
+ mode change 100644 => 100755 SplunkArchitectLab/DS/deployment-apps/UF2/local/inputs.conf
+ mode change 100644 => 100755 SplunkArchitectLab/DS/deployment-apps/UF2/local/outputs.conf
+ create mode 100755 SplunkArchitectLab/DS/deployment-apps/deployment-apps.tar.gz
+ mode change 100644 => 100755 SplunkArchitectLab/DS/serverclass.conf
+ create mode 100644 SplunkArchitectLab/UF/deploymentclient.conf
+branch 'master' set up to track 'origin/master'.
+0
