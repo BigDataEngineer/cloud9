@@ -806,3 +806,22 @@ After doing this, you may fix the identity used for this commit with:
  1 file changed, 16 insertions(+)
 branch 'master' set up to track 'origin/master'.
 0
+[master 6fcfa51] 1707198301
+ Committer: goelt2000@gmail.com <ec2-user@ip-172-31-61-73.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 36 insertions(+)
+ create mode 100644 SplunkArchitectLab/CM/server.conf
+ create mode 100644 SplunkArchitectLab/Indexers/server.conf
+ create mode 100644 SplunkArchitectLab/Indexers/web.conf
+branch 'master' set up to track 'origin/master'.
+0
